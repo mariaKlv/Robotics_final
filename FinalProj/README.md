@@ -29,7 +29,7 @@ execute the python file with:
 execute the python file with:
 ```python final.py```
 
-**Notes**\ 
+**Notes**\
 Both models wait for a key when initially run. To start running it click the image and hit any key. \
 :bulb: Both models require the image `maze.png` to be in the same directory. 
 
