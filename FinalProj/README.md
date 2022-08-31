@@ -8,7 +8,7 @@ in a new terminal type:
 
 Open the "world" folder
 
-Copy and paste the `maze.world` file into  ->  `/catkin_ws/src/thymio_course_skeleton/launch/worlds```
+Copy and paste the `maze.world` file into  ->  `/catkin_ws/src/thymio_course_skeleton/launch/worlds`
 
 Copy and paste the `model.config` and `model.sdf` files into -> `/home/usi/catkin_ws/src/thymio_course_skeleton/launch/models`
 
@@ -31,7 +31,7 @@ execute the python file with:
 execute the python file with:
 ```python final.py```
 
-NOTE: both models wait for a key when initially run. To start running it click the image and hit any key.
-NOTE2: both models require the image "maze.png" to be in the same directory. 
+*NOTE*: Both models wait for a key when initially run. To start running it click the image and hit any key. \
+:bulb: Both models require the image `maze.png` to be in the same directory. 
 
 
