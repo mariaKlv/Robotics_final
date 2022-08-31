@@ -1,8 +1,6 @@
 
 ## Run ros
-in a new terminal type:
-
-```roscore```
+in a new terminal type: `roscore`
 
 ## Set up the world 
 
