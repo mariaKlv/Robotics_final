@@ -1,9 +1,9 @@
 
-======= run ros =====
+## run ros
 in a new terminal type:
 roscore
 
-======= To set up the world ======
+## Set up the world 
 
 Open the "world" folder
 
@@ -15,17 +15,17 @@ Open the world with typing on a new terminal:
 roslaunch thymio_course_skeleton thymio_gazebo_bringup.launch name:=thymio10 world:=maze
 
 
-===== To run the code =====
+## Run the code
 in a new terminal acces /catkin_ws/src/FinalProj/src
 
 build the package with:
 catkin build
 
---- For model 1 ----
+### For model 1 
 execute the python file with:
 python model1.py
 
---- For model 2 (using gazebo)--
+### For model 2 (using gazebo)
 execute the python file with:
 python final.py
 
